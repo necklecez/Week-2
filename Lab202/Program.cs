@@ -1,6 +1,6 @@
 using System;
 
-namespace Lab2
+namespace Lab202
 {
 	class MainClass
 	{
